@@ -13,7 +13,7 @@ const MainOptions = () => {
       description: "View account balance and recent transactions",
       icon: Wallet,
       route: "/check-balance",
-      className: "bg-primary text-primary-foreground hover:bg-primary/90"
+      className: "bg-success text-success-foreground hover:bg-success/90"
     },
     {
       id: "send-money",
